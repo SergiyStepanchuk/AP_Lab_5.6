@@ -1,4 +1,4 @@
-// Lab 5_5
+// Lab 5_6
 #include <iostream>
 using namespace std;
 
